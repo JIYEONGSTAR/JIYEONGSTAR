@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1abc9c&height=300&section=header&text=JIYEONGSTAR&fontSize=90&fontColor=ffffff)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJIYEONGSTAR&count_bg=%233B7E08&title_bg=%2355A651&icon=&icon_color=%2313330D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                  
  - 💻   **I'm a FE Develover**    
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
